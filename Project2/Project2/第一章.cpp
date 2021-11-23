@@ -50,5 +50,9 @@ int main()
 		cout << a1[i] << endl;
 	}
 
+	int a=10;
+	unsigned int b = 10;
+	cout << a + b << endl;
+
 	return 0;
 }
