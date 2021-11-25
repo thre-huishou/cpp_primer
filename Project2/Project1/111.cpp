@@ -199,3 +199,13 @@ using namespace std;
 //	cout << endl;
 //	return 0;
 //}
+
+
+//pair类型
+#include<string>
+int main()
+{
+	pair<int, string> p1(1, "张三");
+	cout << p1.second << endl;
+	return 0;
+}
