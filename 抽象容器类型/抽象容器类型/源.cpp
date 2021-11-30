@@ -56,10 +56,19 @@ using namespace std;
 //	return 0;
 //}
 
-extern "C" int printf(const char *...);
+//extern "C" int printf(const char *...);
+//
+//int main()
+//{
+//	printf("1111");
+//	return 0;
+//}
+
+
+
 
 int main()
 {
-	printf("1111");
+
 	return 0;
 }
